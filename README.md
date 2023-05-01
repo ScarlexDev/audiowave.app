@@ -1,2 +1,2 @@
 # audiowave.app
-🎧 Website dedicated for having way to share your spotify profile &amp; your created playlists.
+> 🎧🌊 NPM package created for audiowave visualization, customize with all types of options, to allow spice up the audio visualization representation for your frontend app. Create a audiowave visualization from a audiofile.
